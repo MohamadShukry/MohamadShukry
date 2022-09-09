@@ -6,7 +6,7 @@ Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-mohamadshukry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-shukry/)](https://www.linkedin.com/in/mohamad-shukry/)
 [![Gmail Badge](https://img.shields.io/badge/-mshukry1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mshukry1998@gmail.com)](mailto:mshukry1998@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
+[![Medium Badge](https://img.shields.io/badge/-@TechwithShukry-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=#)](#)
 [![Instagram Badge](https://img.shields.io/badge/-shukry_mhd-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/) 
 [![Youtube Badge](https://img.shields.io/badge/-techwithshukry-darkred?style=flat-square&logo=youtube&logoColor=white&link=#)](#)
 
