@@ -39,7 +39,7 @@ Feel free to connect with me here:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-## ⚡ Git HUb Status
+## ⚡ github Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamadShukry&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadShukry&layout=compact)](https://github.com/MohamadShukry/github-readme-stats)
