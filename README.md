@@ -1,7 +1,7 @@
 
 ## Hii Guys! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Mohamad Shukry, people call me Shukry, a recent IT undergraduate at [The University of Moratuwa](https://uom.lk/). I am intersting in Software development and android , ios development too. Always open to collaborating on projects and innovative/disruptive ideas. 
+I am Mohamad Shukry, people call me Shukry, a recent IT graduate at [The University of Moratuwa](https://uom.lk/). I am intersting in Software development. Always open to collaborating on projects and innovative/disruptive ideas. 
 Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-mohamadshukry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-shukry/)](https://www.linkedin.com/in/mohamad-shukry/)
