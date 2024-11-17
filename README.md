@@ -52,7 +52,7 @@ Always open to networking, collaborating on projects, and discussing ideas that 
 
 
 ## ⚡ GitHub Stats
-<div align="left" style="display: flex; justify-content: center; gap: 10px;">
+<div align="left" >
   <img src="https://github-readme-stats.vercel.app/api?username=MohamadShukry&show_icons=true&theme=radical" alt="Mohamad Shukry Stats" height="200" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadShukry&layout=compact&theme=radical" alt="Top Languages" height="200"/>
