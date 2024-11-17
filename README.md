@@ -1,8 +1,13 @@
 
-## Hii Guys! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Hi, I'm Mohamad Shukry!  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Mohamad Shukry, people call me Shukry, a recent IT graduate at [The University of Moratuwa](https://uom.lk/). I am intersting in Software development. Always open to collaborating on projects and innovative/disruptive ideas. 
-Feel free to connect with me here:
+#### 🎓 AI/ML Engineer | 💻 Problem Solver | 🚀 Innovator
+
+You can call me Shukry. I'm a Python Software Engineer with a solid foundation in Information Technology, having graduated from the prestigious University of Moratuwa.
+
+I am passionate about software development, crafting scalable solutions, and continuously enhancing my skills in backend engineering and data-driven systems. I thrive in collaborative environments and enjoy working on projects that involve innovative and disruptive technologies.
+
+Always open to networking, collaborating on projects, and discussing ideas that push the boundaries of technology. Let's connect and build something amazing together!
 
 [![Linkedin Badge](https://img.shields.io/badge/-mohamadshukry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamad-shukry/)](https://www.linkedin.com/in/mohamad-shukry/)
 [![Gmail Badge](https://img.shields.io/badge/-mshukry1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mshukry1998@gmail.com)](mailto:mshukry1998@gmail.com)
@@ -38,10 +43,21 @@ Feel free to connect with me here:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-## ⚡ GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamadShukry&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadShukry&layout=compact)](https://github.com/MohamadShukry/github-readme-stats)
+## 📚 **AI/ML Frameworks & Libraries**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+## 🔧 **Tools & Platforms**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+
+## ⚡ GitHub Stats
+<div align="left" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamadShukry&show_icons=true&theme=radical" alt="Mohamad Shukry Stats" height="200" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadShukry&layout=compact&theme=radical" alt="Top Languages" height="200"/>
+</div>
+
 
 
 
